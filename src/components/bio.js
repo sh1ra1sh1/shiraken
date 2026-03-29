@@ -47,7 +47,7 @@ const Bio = () => {
           {/* <a href={`https://twitter.com/${social?.twitter || ``}`}>
             <strong>{author.name}</strong>
           </a> */}
-          <a href={`/about/`}>
+          <a href={`shiraken/about/`}>
             <strong>{author.name}</strong>
           </a>
           の個人ブログです。

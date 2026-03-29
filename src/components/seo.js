@@ -29,7 +29,9 @@ const Seo = ({ description, title, children }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
-  const imageUrl = `${site.siteMetadata.siteUrl}/ogp.png`
+  const imageUrl = `${site.siteMetadata.siteUrl}${
+    site.siteMetadata.pathPrefix || ""
+  }${site.siteMetadata.image}`
 
   return (
     <>

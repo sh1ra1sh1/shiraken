@@ -17,7 +17,7 @@ module.exports = {
     },
     description: `自炊のモチベーションを上げるために料理ブログをはじめました。`,
     siteUrl: `https://yourname.github.io/shiraken`,
-    image: `/shiraken/ogp.png`,
+    image: `/ogp.png`,
     social: {
       twitter: ``,
     },
