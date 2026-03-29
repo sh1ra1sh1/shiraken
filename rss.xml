@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[自炊のモチベーションを上げるために料理ブログをはじめました。]]></description><link>https://yourname.github.io/shiraken</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Mar 2026 04:25:42 GMT</lastBuildDate><item><title><![CDATA[目玉焼き]]></title><description><![CDATA[…]]></description><link>https://yourname.github.io/shiraken/20260329/</link><guid isPermaLink="false">https://yourname.github.io/shiraken/20260329/</guid><pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;概要&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[自炊のモチベーションを上げるために料理ブログをはじめました。]]></description><link>https://sh1ra1sh1.github.io/shiraken</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Mar 2026 04:40:32 GMT</lastBuildDate><item><title><![CDATA[目玉焼き]]></title><description><![CDATA[…]]></description><link>https://sh1ra1sh1.github.io/shiraken/20260329/</link><guid isPermaLink="false">https://sh1ra1sh1.github.io/shiraken/20260329/</guid><pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;難易度：★（簡単）&lt;/p&gt;
 &lt;p&gt;今日は記事のかさ増しを兼ねて、「目玉焼き」を作っていきます。&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;いやいや、簡単すぎやろ！！（セルフ突っ込み）&lt;/del&gt;&lt;/p&gt;
@@ -81,7 +81,7 @@
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[はじめまして｜ブログの説明]]></title><description><![CDATA[…]]></description><link>https://yourname.github.io/shiraken/20260322/</link><guid isPermaLink="false">https://yourname.github.io/shiraken/20260322/</guid><pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;はじめまして&lt;/h2&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[はじめまして｜ブログの説明]]></title><description><![CDATA[…]]></description><link>https://sh1ra1sh1.github.io/shiraken/20260322/</link><guid isPermaLink="false">https://sh1ra1sh1.github.io/shiraken/20260322/</guid><pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;はじめまして&lt;/h2&gt;
 &lt;p&gt;はじめまして、白石です。&lt;br&gt;
 このブログでは、&lt;strong&gt;簡単でおいしい料理&lt;/strong&gt;をテーマに情報発信をしています。&lt;/p&gt;
 &lt;p&gt;忙しい日でもサッと作れるレシピや、ちょっとした工夫で美味しくなるコツを紹介していきます。&lt;/p&gt;
