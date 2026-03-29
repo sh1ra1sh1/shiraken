@@ -136,7 +136,7 @@ const TagPage = ({ data, location, pageContext }) => {
 export default TagPage
 
 export const Head = ({ pageContext }) => (
-  <Seo title={`Tag: ${pageContext.tag}`} />
+  <Seo title={`タグ「${pageContext.tag}」`} />
 )
 
 export const query = graphql`

@@ -1,6 +1,7 @@
 ---
 title: "目玉焼き"
 date: "2026-03-29"
+description: 難易度：★（簡単）
 tags: ["定番", "卵", "朝食"]
 featured: true
 thumbnail: "./thumbnail.png"

@@ -128,7 +128,7 @@ const BlogList = ({ data, pageContext, location }) => {
 
 export default BlogList
 
-export const Head = () => <Seo title="Blog" />
+export const Head = () => <Seo title="記事一覧" />
 
 export const pageQuery = graphql`
   query ($skip: Int!, $limit: Int!) {

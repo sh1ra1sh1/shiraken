@@ -1,6 +1,7 @@
 ---
 title: "はじめまして｜ブログの説明"
 date: "2026-03-22"
+description: 料理ブログを開設しました。
 tags: ["その他"]
 featured: true
 thumbnail: "./intro.png"

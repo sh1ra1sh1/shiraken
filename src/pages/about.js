@@ -188,7 +188,9 @@ const IndexPage = ({ data, location }) => {
 
 export default IndexPage
 
-export const Head = () => <Seo title="Home" />
+export const Head = () => (
+  <Seo title="プロフィール" description="趣味でいろいろ研究をやっています。" />
+)
 
 export const pageQuery = graphql`
   query {

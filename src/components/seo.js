@@ -29,18 +29,32 @@ const Seo = ({ description, title, children }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  const metaTitle = title || defaultTitle
   const imageUrl = `${site.siteMetadata.siteUrl}${
     site.siteMetadata.pathPrefix || ""
   }${site.siteMetadata.image}`
 
   return (
     <>
-      <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
+      <title>
+        {metaTitle === defaultTitle
+          ? metaTitle
+          : `${metaTitle} | ${defaultTitle}`}
+      </title>
       <meta name="description" content={metaDescription} />
+
+      <meta
+        property="og:title"
+        content={
+          metaTitle === defaultTitle
+            ? metaTitle
+            : `${metaTitle} | ${defaultTitle}`
+        }
+      />
       <meta property="og:image" content={imageUrl} />
-      <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
       <meta property="og:type" content="website" />
+
       <meta name="twitter:image" content={imageUrl} />
       <meta name="twitter:card" content="summary" />
       <meta

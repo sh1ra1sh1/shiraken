@@ -176,7 +176,12 @@ const IndexPage = ({ data, location }) => {
 
 export default IndexPage
 
-export const Head = () => <Seo title="Home" />
+export const Head = () => (
+  <Seo
+    title="白石研究所"
+    description="自炊のモチベーションを上げるために料理ブログをはじめました。"
+  />
+)
 
 export const pageQuery = graphql`
   query {
