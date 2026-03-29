@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[自炊のモチベーションを上げるために料理ブログをはじめました。]]></description><link>https://yourname.github.io/shiraken</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Mar 2026 03:55:38 GMT</lastBuildDate><item><title><![CDATA[目玉焼き]]></title><description><![CDATA[…]]></description><link>https://yourname.github.io/shiraken/20260329/</link><guid isPermaLink="false">https://yourname.github.io/shiraken/20260329/</guid><pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;難易度：★（簡単）&lt;/p&gt;
+&lt;p&gt;今日は記事のかさ増しを兼ねて、「目玉焼き」を作っていきます。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;いやいや、簡単すぎやろ！！（セルフ突っ込み）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;油断して火事にならないようにしましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;卵を割る&lt;/h2&gt;
+&lt;p&gt;卵を割ります。どこか角にぶつけます。&lt;/p&gt;
+&lt;p&gt;図のように、&lt;strong&gt;殻にひびが入り、かつ卵白が少しはみ出た状態&lt;/strong&gt;が割りやすいです。&lt;/p&gt;
+&lt;p&gt;卵白がはみ出てない状態で割ろうとすると高確率で黄身が破裂することに最近気づきました。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/shiraken/static/66097e21ddd3a90a72081bc693b207f7/20337/egg.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.84810126582278%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAADLAAAAywAEoZFrbAAAETklEQVR42lWUW0xUVxSG56ntW1/6YNSoJY36YFubtKLGSyPWeqsQiyIiDAi0GPFWVGCiomIEEZQBHBCxgoiQKpSY4aIEqaKCcjEVLGCZO5dh7mcYmRnUfN1g+9CHlX3O3t/6z15rn3/LbA430uu3uDyTSB7fv+GfnpPGvVgsFhwOBxarFbdYc41PYnNNYHNOTI8OySv4t9js0jQns5s68OprcOvUOPTN2LVNOLX38Ghr0P6pxmTUYxoaxmjQouutF1w1z7tv87Szmtb2ajQvq/EP1WA1PsPudCNrq79HQ14hjUXXqC8sp6GwQsRN6vJVlOYo0QwO0tPbS/9ffZRdzKMhv4iakgoRN6gsreZOcRmNShVPGu6KnY4j69DauD/0jmb9BA+GJqfj4dAbWoyT1HRoGdTqeCkEX2l0/C7em/U+Wgw+Woff0Try5j1resczjQXJaUc2qNOjMY0g+SbRitJe6Qz8bTAyIOZ7+gdEqQbMZjMGMb7oG8DskrB7XtPzSkOfRs+A3iBYkSM+7Jzq4c0rWVw4toeq4hzSEsNJ3h1Myu4fUMRuIWlHEJfPJuObfEN5fhqHty/lfFIMGUnxpO78lqM71hK7IZCooMUiLxSbzYqsRIDJP4UQG7KKMwnruJsXRtbeICKCFhH6zRzS90Uy4fVxQ5nC/uAvSPh+AXfS16CvCOW2YhXhgbNZPvtDotctwWa1ILtVVUDq/p2cSwplvOsE/meptBbJORC2mpDAz0jbF4PX5+dhfQmKuPWoc7fDyxTMNZG0ZK8nU75MiM5n17rA94K11YVUXVBgaEoHYy4GdSLqbFF61Fq++yqAowlyfEKwrfk6ytQwRu7ux/t4H/3XglGfDkLx4yLil31JSuQ2xsZGxaHUV/Do+CF6r4jEzmR6yyP5VbEF+cavWRwwi4NxUfj8fpprL6FM3oq5LgF7nZxO1SauH1pC5aHNpAevITtuN27JhazuxBHiFszjcWkmRnUuJQfWcDpmJSsWz2furJnEy3eJHnq5cyOH4z9v4I+CrXj6b9FRm4UybB6mYgWPck6QER2BQ7hJVhy9C/XZX5D6WmkuULJn43KWLpzJ5/MDWPjpHOJj5Fhsdjq7Onn69IlwSbuwnRPT6AiV55Jp3BvKaLmSWvFstYwhe3I1C526gMaLp8iNjUG+djUff/QBAbNnMHfGJ8gjwpHc49wuy+dyxhEeqLIpObiXy4cPcGxTEEUhK7EXpTH0Wz6uqR/b0nOfprJLlGWd5+qZTC6eTCM6fBvxURFEhYdxPjMDr/htqlRnOBm/mbzEnWTEbKUqNZF7p5LQV6kwVaqwt9TidjmRucUJWrufM9rURFt3N+1tbbS3t9PV1YXb7RZi4jaRJF5PePELN1k9Ei9cwh2aQdGGrul2eKYYUcUUL3N7PLiGh3FotWLRxpiwmXlsbPramhKagv6LcZFkF7swu2w47A5GBet0uv7H/ANafMkJaNNFsQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;卵を割る例&quot;
+        title=&quot;&quot;
+        src=&quot;/shiraken/static/66097e21ddd3a90a72081bc693b207f7/f058b/egg.png&quot;
+        srcset=&quot;/shiraken/static/66097e21ddd3a90a72081bc693b207f7/c26ae/egg.png 158w,
+/shiraken/static/66097e21ddd3a90a72081bc693b207f7/6bdcf/egg.png 315w,
+/shiraken/static/66097e21ddd3a90a72081bc693b207f7/f058b/egg.png 630w,
+/shiraken/static/66097e21ddd3a90a72081bc693b207f7/40601/egg.png 945w,
+/shiraken/static/66097e21ddd3a90a72081bc693b207f7/78612/egg.png 1260w,
+/shiraken/static/66097e21ddd3a90a72081bc693b207f7/20337/egg.png 3082w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;加熱する&lt;/h2&gt;
+&lt;p&gt;お好みに合わせて火加減を調節してください。&lt;/p&gt;
+&lt;p&gt;私は卵アレルギーなので、本当は両面焼きたい派ですが…&lt;/p&gt;
+&lt;p&gt;今日は見栄えのために片面焼きにしてます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;完成&lt;/h2&gt;
+&lt;p&gt;できました！良い朝です。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/shiraken/static/0240a1d13b87001f017ad30418c5efcc/08485/result.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;完成&quot;
+        title=&quot;&quot;
+        src=&quot;/shiraken/static/0240a1d13b87001f017ad30418c5efcc/f058b/result.png&quot;
+        srcset=&quot;/shiraken/static/0240a1d13b87001f017ad30418c5efcc/c26ae/result.png 158w,
+/shiraken/static/0240a1d13b87001f017ad30418c5efcc/6bdcf/result.png 315w,
+/shiraken/static/0240a1d13b87001f017ad30418c5efcc/f058b/result.png 630w,
+/shiraken/static/0240a1d13b87001f017ad30418c5efcc/40601/result.png 945w,
+/shiraken/static/0240a1d13b87001f017ad30418c5efcc/78612/result.png 1260w,
+/shiraken/static/0240a1d13b87001f017ad30418c5efcc/08485/result.png 2014w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[はじめまして｜ブログの説明]]></title><description><![CDATA[…]]></description><link>https://yourname.github.io/shiraken/20260322/</link><guid isPermaLink="false">https://yourname.github.io/shiraken/20260322/</guid><pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;はじめまして&lt;/h2&gt;
+&lt;p&gt;はじめまして、白石です。&lt;br&gt;
+このブログでは、&lt;strong&gt;簡単でおいしい料理&lt;/strong&gt;をテーマに情報発信をしています。&lt;/p&gt;
+&lt;p&gt;忙しい日でもサッと作れるレシピや、ちょっとした工夫で美味しくなるコツを紹介していきます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;このブログについて&lt;/h2&gt;
+&lt;p&gt;このブログは、以下のような方に向けて書いています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;私のファン&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;日々の食事に刺激を求める方&lt;/li&gt;
+&lt;li&gt;忙しくても自炊したい方&lt;/li&gt;
+&lt;li&gt;作り置きをして手間を減らしたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;できるだけ&lt;strong&gt;シンプルで再現しやすい内容&lt;/strong&gt;を意識しています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;発信していく内容&lt;/h2&gt;
+&lt;p&gt;主にこんな記事を書いていきます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;創作レシピ&lt;/li&gt;
+&lt;li&gt;定番の自炊料理&lt;/li&gt;
+&lt;li&gt;昆虫食・ゲテモノ系（余裕があれば）&lt;/li&gt;
+&lt;li&gt;リクエスト料理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;なぜこのブログを作ったのか&lt;/h2&gt;
+&lt;p&gt;自炊のモチベーションを保つために、このブログを作りました。
+来月から社会人生活が始まることもあり、この度、自炊に力を入れることにしました。&lt;/p&gt;
+&lt;p&gt;その中で得た知識やレシピを、&lt;br&gt;
+誰かの役に立てばと思い、このブログを始めました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;これから少しずつ記事を増やしていきます。&lt;/p&gt;
+&lt;p&gt;「これいいな」と思えるレシピを 1 つでも見つけてもらえたら嬉しいです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;最後に&lt;/h2&gt;
+&lt;p&gt;ここまで読んでいただきありがとうございます。&lt;/p&gt;
+&lt;p&gt;よければ、他の記事もぜひご覧ください！&lt;/p&gt;</content:encoded></item></channel></rss>
