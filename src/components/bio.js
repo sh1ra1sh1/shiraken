@@ -1,0 +1,62 @@
+/**
+ * Bio component that queries for data
+ * with Gatsby's useStaticQuery component
+ *
+ * See: https://www.gatsbyjs.com/docs/how-to/querying-data/use-static-query/
+ */
+
+import * as React from "react"
+import { useStaticQuery, graphql } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
+
+const Bio = () => {
+  const data = useStaticQuery(graphql`
+    query BioQuery {
+      site {
+        siteMetadata {
+          author {
+            name
+            summary
+          }
+          social {
+            twitter
+          }
+        }
+      }
+    }
+  `)
+
+  // Set these values by editing "siteMetadata" in gatsby-config.js
+  const author = data.site.siteMetadata?.author
+  // const social = data.site.siteMetadata?.social
+
+  return (
+    <div className="bio">
+      <StaticImage
+        className="bio-avatar"
+        layout="fixed"
+        formats={["auto", "webp", "avif"]}
+        src="../images/icon-512x512.png"
+        width={50}
+        height={50}
+        quality={95}
+        alt="Profile picture"
+      />
+      {author?.name && (
+        <p>
+          {/* <a href={`https://twitter.com/${social?.twitter || ``}`}>
+            <strong>{author.name}</strong>
+          </a> */}
+          <a href={`/about/`}>
+            <strong>{author.name}</strong>
+          </a>
+          の個人ブログです。
+          <br />
+          投稿内容は個人の見解であり、所属とは一切関係ありません。
+        </p>
+      )}
+    </div>
+  )
+}
+
+export default Bio
