@@ -6,6 +6,7 @@
  */
 
 import * as React from "react"
+import { Link } from "gatsby"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
@@ -44,12 +45,9 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          {/* <a href={`https://twitter.com/${social?.twitter || ``}`}>
+          <Link to="/about/">
             <strong>{author.name}</strong>
-          </a> */}
-          <a href={`shiraken/about/`}>
-            <strong>{author.name}</strong>
-          </a>
+          </Link>
           の個人ブログです。
           <br />
           投稿内容は個人の見解であり、所属とは一切関係ありません。

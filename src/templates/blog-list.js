@@ -14,7 +14,7 @@ const BlogList = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <h1>最新記事一覧</h1>
+      <h1>記事一覧</h1>
       <ol className="post-list">
         {posts.map(post => {
           const image = post.frontmatter.thumbnail
